@@ -10,3 +10,7 @@ PixysOS (28/04/2022) Device Changelogs:
 - Drop 90Hz Option In Per App Refresh Rate Settings
 - Address more Sepolicy Denials
 - Many more miscellaneous changes & improvements
+
+If you like my work, please donate so that i can afford server charges:
+UPI: faizaanb@fbl
+Paypal: paypal.me/thefaizanbashir
