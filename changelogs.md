@@ -1,7 +1,7 @@
 PixysOS (28/04/2022) Device Changelogs:
 - Introduce KCAL Display Settings
 - Add Refresh Rate QS Tile
-- Add FPS QS Tile
+- Add FPS Counter QS Tile
 - Drop Google Camera GO
 - Add Mi Sound Scenes
 - Introduce Haptic Feedback Level Adjustment
