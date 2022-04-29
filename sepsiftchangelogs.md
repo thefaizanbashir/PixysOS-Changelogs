@@ -7,6 +7,7 @@ ShapeShift OS (29/04/2022) Device Changelogs:
 - Hide Magisk Better
 - Add NotchBarKiller overlay
 - Don't pin launcher app in memory
+- I just built it because 69 people were requesting this build.
 
 Note: Security Patch Level is still October 2021, I'll try to merge latest in next build.
 
